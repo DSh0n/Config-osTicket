@@ -7,7 +7,7 @@
 In this tutorial, we'll walk through the steps to configure various elements of the osTicket system, such as roles, departments, agents, users, and SLAs, from the perspective of a system administrator. Let's get started!
 <br />
 
-<h2>Environments Used </h2>
+<h2>Operating Systems Used</h2>
 
 - <b>Windows 10</b>
 
